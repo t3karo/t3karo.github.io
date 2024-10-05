@@ -18,8 +18,8 @@ Here are some of the projects I am working on:
 2. Todo List Website
 
 
-![picture](https://media.licdn.com/dms/image/v2/D4D03AQFESjCscr26fw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1706205265812?e=2147483647&v=beta&t=6EuQ2lYqETOrzUAsdGvHpdOr_z6aXV7tj217IUfeDho) 
-<!-- Add an actual image link -->
+![picture](https://media-hel3-1.cdn.whatsapp.net/v/t61.24694-24/455161454_509915031981105_7740101187545943925_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_Q5AaIHCB2qEH_isFzilJKV9Ndwi8h4Qe-dsY_z4BY3ExMZR0&oe=670E52D6&_nc_sid=5e03e0&_nc_cat=105) 
+<!--image link -->
 
 ## Contact
 You can reach me at [myemail@example.com](mailto:t3karo02@students.oamk.fi).
